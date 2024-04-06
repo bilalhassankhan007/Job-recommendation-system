@@ -9,14 +9,14 @@ OBJECTIVE
 
 DATA COLLECTION
 Importing the important libraires, classes and methods for data manipulation and further analysis. Libraries and classes imported as follow:
-•	Pandas: It has functions for analysing, cleaning, exploring, and manipulating data.
-•	Scikit Learn - It provides a selection of efficient tools for machine learning and statistical modelling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python. 
-•	NLTK: NLTK (Natural Language Toolkit) is the go-to API for NLP (Natural Language Processing) with Python. It is a tool to preprocess text data for further analysis like with ML models for instance. It helps convert text into numbers, which the model can then easily work with.
-•	Tokenize: The aim is to eliminate stop words, punctuation, and other irrelevant information from the text. Tokenizers transform the text into a list of words, which can be cleaned using a text-cleaning function.
-•	PorterStemmer: It uses predefined rules to convert words into their root forms.
-•	Corpus: It is a collection of text documents. It can be thought as just a bunch of text files in a directory, often alongside many other directories of text files.
-•	Stopwords: It is used for text mining & to eliminate words that are so widely used that they carry very little useful information.
-•	Regular Expression(re): It is used to match the strings of text such as particular characters, words or patterns of characters. It means that we can match and extract any string pattern from the text with the help of regular expressions.
+•Pandas: It has functions for analysing, cleaning, exploring, and manipulating data.
+•Scikit Learn - It provides a selection of efficient tools for machine learning and statistical modelling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python. 
+•NLTK: NLTK (Natural Language Toolkit) is the go-to API for NLP (Natural Language Processing) with Python. It is a tool to preprocess text data for further analysis like with ML models for instance. It helps convert text into numbers, which the model can then easily work with.
+•Tokenize: The aim is to eliminate stop words, punctuation, and other irrelevant information from the text. Tokenizers transform the text into a list of words, which can be cleaned using a text-cleaning function.
+•PorterStemmer: It uses predefined rules to convert words into their root forms.
+•Corpus: It is a collection of text documents. It can be thought as just a bunch of text files in a directory, often alongside many other directories of text files.
+•Stopwords: It is used for text mining & to eliminate words that are so widely used that they carry very little useful information.
+•Regular Expression(re): It is used to match the strings of text such as particular characters, words or patterns of characters. It means that we can match and extract any string pattern from the text with the help of regular expressions.
 
 
 DATA PREPROCESSING
